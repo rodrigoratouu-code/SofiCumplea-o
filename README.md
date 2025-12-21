@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
@@ -233,7 +232,7 @@ audio::-moz-media-controls-play-button {
     </div>      
 </section>
   <section id="recomendacion-navegador">
-    <h2>🧭 Recomendación de Rodrigo</h2>
+    <h2>🧭 Recomendación de Mi Cuñao Rodrigo</h2>
     <p>Para una mejor experiencia, abre este sitio en Navegadores  <strong>Google Chrome</strong>, <strong>Mozilla Firefox</strong> o <strong>Microsoft Edge</strong>.</p>
   </section>
   <section id="contacto">
