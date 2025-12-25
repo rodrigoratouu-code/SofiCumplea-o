@@ -193,6 +193,15 @@ audio::-moz-media-controls-play-button {
   <header>
     <h1 style="color: rgb(241, 287, 17);">SOFI MUSIC</h1>
   </header>
+  <section id="catalogo">
+    <h2>🎧 RADIO DE TOO UN CHIN🎼</h2>
+    <div class="catalogo-card">
+      <p>MUSICA PA GO SA .</p>
+      <a href="https://rdomiplayer.com/landing/radio/1596/1" target="_blank">
+        <button>ESCUCHA RADIO DOMINICANA</button>
+      </a>
+    </div>
+  </section>
   <section id="galeria-videos">
     <h2>SOFI MUSIC  </h2>
     <p>Canciones que animan 'Quieres mas' Ya sabes dónde encontrarme, MI CUÑAAA FELIZ CUMPLEAÑOS</p>
