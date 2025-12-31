@@ -200,6 +200,9 @@ audio::-moz-media-controls-play-button {
       <a href="https://rdomiplayer.com/landing/radio/1596/1" target="_blank">
         <button>ESCUCHA RADIO DOMINICANA</button>
       </a>
+      <a href="https://play.los40.do/" target="_blank">
+        <button>ESCUCHA LOS40 REPÚBLICA DOMINICANA</button>
+      </a>
     </div>
   </section>
   <section id="galeria-videos">
